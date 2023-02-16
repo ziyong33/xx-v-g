@@ -1,1 +1,1 @@
-FROM unistey/xx-v-ng:latest
+FROM unistey/xx-v-ng:super-nong
